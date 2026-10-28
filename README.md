@@ -1,5 +1,7 @@
 # Лаборатори 8 — Mockito
 
+[![Java CI](https://github.com/enkhbayr626-commits/F.CSA313_lab8/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/enkhbayr626-commits/F.CSA313_lab8/actions/workflows/test.yml)
+
 С. Энхбаяр / B232270153 / F.CSA313
 
 ## Орчин
@@ -34,6 +36,7 @@ mvn test
 
 A1–A8-ыг [CourseRegistrationServiceTest.java](src/test/java/mn/edu/must/sqat/CourseRegistrationServiceTest.java) файлд бичсэн.
 7 энгийн тест, A8-ийн 3 мөр нийлээд **10 тест** болсон.
+Push болон pull request бүрд [GitHub Actions](https://github.com/enkhbayr626-commits/F.CSA313_lab8/actions/workflows/test.yml) дээр `mvn clean test` ажиллана.
 Эцсийн [гаралт](results/mvn-test.txt):
 
 ```text
