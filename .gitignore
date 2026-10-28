@@ -1,0 +1,7 @@
+target/
+.idea/
+.DS_Store
+__MACOSX/
+._*
+/starter/
+*.docx
